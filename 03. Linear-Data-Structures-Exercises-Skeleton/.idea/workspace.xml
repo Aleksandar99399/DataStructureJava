@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69c8cf58-b293-45dd-aa3e-31a3f44ca048" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="214" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4Oe8pibaaGoM6wufgKNhxHNRe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="implementations" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="implementations" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DoublyLinkedListTest">
+    <configuration name="DoublyLinkedListBenchmarkTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="benchmark.DoublyLinkedListBenchmarkTest" />
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="benchmark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversedListTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="implementations.ReversedListTest" />
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDequeTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.ArrayDequeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDequeTest.testArrayDeque" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.ArrayDequeTest" />
+      <option name="METHOD_NAME" value="testArrayDeque" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.DoublyLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testAddFirstShouldAddInFront" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.DoublyLinkedListTest" />
+      <option name="METHOD_NAME" value="testAddFirstShouldAddInFront" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testAddSingleElementInBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.DoublyLinkedListTest" />
+      <option name="METHOD_NAME" value="testAddSingleElementInBack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testAddSingleElementInFront" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.DoublyLinkedListTest" />
+      <option name="METHOD_NAME" value="testAddSingleElementInFront" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.QueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest.testPopShouldRemoveAndReturnTopElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Linear-Data-Structures-Exercises-Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.QueueTest" />
+      <option name="METHOD_NAME" value="testPopShouldRemoveAndReturnTopElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DoublyLinkedListBenchmarkTest" />
+      <item itemvalue="Application.ReversedListTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ArrayDequeTest.testArrayDeque" />
+      <item itemvalue="JUnit.ArrayDequeTest" />
+      <item itemvalue="JUnit.DoublyLinkedListTest" />
+      <item itemvalue="JUnit.QueueTest" />
+      <item itemvalue="JUnit.QueueTest.testPopShouldRemoveAndReturnTopElement" />
+      <item itemvalue="JUnit.DoublyLinkedListTest.testAddSingleElementInBack" />
+      <item itemvalue="JUnit.DoublyLinkedListTest.testAddSingleElementInFront" />
+      <item itemvalue="JUnit.DoublyLinkedListTest.testAddFirstShouldAddInFront" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DoublyLinkedListTest.testAddSingleElementInFront" />
+        <item itemvalue="JUnit.QueueTest" />
+        <item itemvalue="JUnit.DoublyLinkedListTest.testAddFirstShouldAddInFront" />
+        <item itemvalue="JUnit.DoublyLinkedListTest.testAddSingleElementInBack" />
+        <item itemvalue="JUnit.QueueTest.testPopShouldRemoveAndReturnTopElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69c8cf58-b293-45dd-aa3e-31a3f44ca048" name="Default Changelist" comment="" />
+      <created>1584094991195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584094991195</updated>
+      <workItem from="1584094994925" duration="35601000" />
+      <workItem from="1584192460104" duration="15000" />
+      <workItem from="1584353544837" duration="8603000" />
+      <workItem from="1585427482788" duration="1363000" />
+      <workItem from="1585495979831" duration="443000" />
+      <workItem from="1585759361651" duration="9290000" />
+      <workItem from="1586007942254" duration="1765000" />
+      <workItem from="1586174405365" duration="5127000" />
+      <workItem from="1586273995248" duration="98000" />
+      <workItem from="1586274291064" duration="16000" />
+      <workItem from="1586583595148" duration="743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="87" key="#Arquillian_Containers" timestamp="1584119489477">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="87" key="#Arquillian_Containers/0.0.1600.860@0.0.1600.860" timestamp="1584119489477" />
+    <state x="397" y="87" key="#ArrayDequeTest" timestamp="1584115827664">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="87" key="#ArrayDequeTest/0.0.1600.860@0.0.1600.860" timestamp="1584115827664" />
+    <state x="397" y="87" key="#ArrayDequeTests" timestamp="1584119317153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="87" key="#ArrayDequeTests/0.0.1600.860@0.0.1600.860" timestamp="1584119317153" />
+    <state x="497" y="171" key="#Customize_Data_Views" timestamp="1584117605389">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="497" y="171" key="#Customize_Data_Views/0.0.1600.860@0.0.1600.860" timestamp="1584117605389" />
+    <state x="234" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584126745394">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="234" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1584126745394" />
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584110706639">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1584110706639" />
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1584130318895">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1584130318895" />
+    <state x="430" y="118" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584095043655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="430" y="118" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.860@0.0.1600.860" timestamp="1584095043655" />
+    <state x="596" y="288" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584119812764">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="288" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1584119812764" />
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584128389865">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.860@0.0.1600.860" timestamp="1584128389865" />
+    <state x="345" y="184" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1584115989918">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="345" y="184" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1600.860@0.0.1600.860" timestamp="1584115989918" />
+    <state x="670" y="182" key="#xdebugger.XInspectDialog" timestamp="1584116002637">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="670" y="182" key="#xdebugger.XInspectDialog/0.0.1600.860@0.0.1600.860" timestamp="1584116002637" />
+    <state width="443" height="466" key="DebuggerActiveHint" timestamp="1585764937317">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="443" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1585764937317" />
+    <state width="1557" height="254" key="GridCell.Tab.0.bottom" timestamp="1586584338988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586584338988" />
+    <state width="1557" height="254" key="GridCell.Tab.0.center" timestamp="1586584338988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586584338988" />
+    <state width="1557" height="254" key="GridCell.Tab.0.left" timestamp="1586584338988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586584338988" />
+    <state width="1557" height="254" key="GridCell.Tab.0.right" timestamp="1586584338988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="254" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586584338988" />
+    <state width="1557" height="281" key="GridCell.Tab.1.bottom" timestamp="1586584338983">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586584338983" />
+    <state width="1557" height="281" key="GridCell.Tab.1.center" timestamp="1586584338983">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586584338983" />
+    <state width="1557" height="281" key="GridCell.Tab.1.left" timestamp="1586584338983">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586584338983" />
+    <state width="1557" height="281" key="GridCell.Tab.1.right" timestamp="1586584338983">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586584338983" />
+    <state x="301" y="7" key="SettingsEditor" timestamp="1584125830168">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="7" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584125830168" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1586007945322">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586007945322" />
+    <state x="564" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584115720927">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="564" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1584115720927" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584121203206">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584121203206" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/QueueTest.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/DoublyLinkedListTest.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/implementations/ArrayDequeTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/BalancedParentheses.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/ArrayDeque.java</url>
+          <line>165</line>
+          <properties class="implementations.ArrayDeque" method="remove">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/ReversedList.java</url>
+          <line>42</line>
+          <properties class="implementations.ReversedList" method="removeAt">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/Queue.java</url>
+          <line>37</line>
+          <properties class="implementations.Queue" method="poll">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/DoublyLinkedList.java</url>
+          <line>81</line>
+          <properties class="implementations.DoublyLinkedList" method="removeLast">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/DoublyLinkedList.java</url>
+          <line>25</line>
+          <properties class="implementations.DoublyLinkedList" method="addFirst">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/03__Linear_Data_Structures_Exercises_Skeleton$QueueTest_testPopShouldRemoveAndReturnTopElement.ic" NAME="QueueTest.testPopShouldRemoveAndReturnTopElement Coverage Results" MODIFIED="1585764863389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>implementations.*</FILTER>
+    </SUITE>
+  </component>
+</project>

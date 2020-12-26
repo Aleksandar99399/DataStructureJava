@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="021a713d-d803-4dcb-a4e9-232759fa6a92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZWMBqDlh8QYOywv5R8dgRgrkgt" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/examsDataStructures/01. Microsystem - Correctness_Skeleton" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="JUnit.MaxHeapTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Heaps-BST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.BinaryTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxHeapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.MaxHeapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.PriorityQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest.testPollMultipleElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heaps-BST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="implementations" />
+      <option name="MAIN_CLASS_NAME" value="implementations.PriorityQueueTest" />
+      <option name="METHOD_NAME" value="testPollMultipleElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MaxHeapTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PriorityQueueTest" />
+        <item itemvalue="JUnit.PriorityQueueTest.testPollMultipleElements" />
+        <item itemvalue="JUnit.BinaryTreeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="021a713d-d803-4dcb-a4e9-232759fa6a92" name="Default Changelist" comment="" />
+      <created>1584950263923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584950263923</updated>
+      <workItem from="1584950271375" duration="17945000" />
+      <workItem from="1585209342124" duration="62000" />
+      <workItem from="1585310401074" duration="673000" />
+      <workItem from="1585431807216" duration="1093000" />
+      <workItem from="1585737642964" duration="25000" />
+      <workItem from="1585853373746" duration="638000" />
+      <workItem from="1585925266943" duration="5691000" />
+      <workItem from="1585938916796" duration="261000" />
+      <workItem from="1586065720236" duration="1062000" />
+      <workItem from="1586073148499" duration="6953000" />
+      <workItem from="1586336703565" duration="1583000" />
+      <workItem from="1586339319912" duration="12000" />
+      <workItem from="1586341058388" duration="10901000" />
+      <workItem from="1586513720332" duration="9038000" />
+      <workItem from="1586584379323" duration="748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584966827228">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1584966827228" />
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1586539183175">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1586539183175" />
+    <state x="512" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584951705097">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="512" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1584951705097" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1586524988203">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586524988203" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1586582927225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586582927225" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1586582927225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586582927225" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1586582927224">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586582927224" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1586582927225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586582927225" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1586582927225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586582927225" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1586582927225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586582927225" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1586582927225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586582927225" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1586582927225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586582927225" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584966800487">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1584966800487" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1586339320801">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586339320801" />
+    <state x="530" y="198" key="extract.method.dialog" timestamp="1584961088060">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="198" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1584961088060" />
+    <state x="182" y="49" key="new project wizard" timestamp="1586524989692">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="49" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586524989692" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/PriorityQueue.java</url>
+          <line>62</line>
+          <properties class="implementations.PriorityQueue" method="poll">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/BinarySearchTree.java</url>
+          <line>85</line>
+          <properties class="implementations.BinarySearchTree" method="search">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/BinaryTree.java</url>
+          <line>88</line>
+          <properties class="implementations.BinaryTree" method="inOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/PriorityQueue.java</url>
+          <line>72</line>
+          <properties class="implementations.PriorityQueue" method="heapiFyDown">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>13</line>
+          <properties class="Main.HeapMax" method="offer">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>18</line>
+          <properties class="Main.HeapMax" method="heapifyUp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/implementations/BinaryTree.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
